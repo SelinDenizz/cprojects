@@ -1,0 +1,2 @@
+How to expand aliases
+source ./setup.sh
